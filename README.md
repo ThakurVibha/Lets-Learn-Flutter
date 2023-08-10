@@ -1,10 +1,6 @@
-# flutterlearnings
-
 # Flutter Learning Project
 
 Welcome to my Flutter learning project! This repository serves as a platform for me to explore and learn Flutter, a UI toolkit by Google for building natively compiled applications for mobile, web, and desktop from a single codebase.
-
-![Flutter Learning Project](assets/flutter_learning_project.png)
 
 ## Project Overview
 
@@ -24,9 +20,7 @@ As an experienced Android developer, I'm expanding my skills to include Flutter 
 To get started with this project:
 
 1. Clone this repository to your local machine:
-2. 
 2. Open the project in your favorite IDE or text editor.
-
 3. Explore the different code files and examples to learn about Flutter.
 
 ## Project Structure
@@ -35,7 +29,6 @@ The project is structured as follows:
 
 - `lib` directory: Contains Flutter code files and examples.
 - `main.dart`: Entry point of the Flutter app.
-- ...
 
 ## Examples
 
@@ -57,12 +50,6 @@ Here are some resources that I found helpful while learning Flutter:
 ## Contributing
 
 Contributions, suggestions, and improvements are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
-
----
 
 Happy Fluttering! 🚀
 
