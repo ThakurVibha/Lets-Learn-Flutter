@@ -1,9 +1,5 @@
 # 🚀 Flutter Learning Journey 📱
 
-<p align="center">
-  <img src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" alt="Flutter Logo">
-</p>
-
 Hey there! 👋 Welcome to my electrifying Flutter Learning Journey repository. 🎉 Here, I'm turbocharging my Dart and Flutter skills while building some seriously cool apps along the way. Get ready for an adventure through sleek UIs, snappy animations, and mind-bending state management. Let's dive in, Gen Z style! 💥
 
 ## 📚 What's Inside?
@@ -15,19 +11,6 @@ Hey there! 👋 Welcome to my electrifying Flutter Learning Journey repository. 
 - **Navigation Nirvana**: Seamlessly navigate through screens and create epic user journeys. 🚀
 - **Aesthetic Aura**: Craft stunning UIs that will make your users swoon. 💅
 - **Project X**: Supercharge your learning by building mind-blowing projects. 🔥
-
-## 📚 Learning Resources
-
-Level up your skills with some top-tier learning resources:
-
-- **Flutter Blaster Course**: A hyperdrive to Flutter mastery. 🛸
-- **Dart Saber Guide**: Harness the power of Dart like a Jedi. ⚔️
-
-## 🎉 Get in Touch
-
-Catch me in the metaverse! Let's connect and geek out over Flutter and Dart:
-
-- 💼 LinkedIn: [vibha-thakur](https://www.linkedin.com/in/your-username)
 
 ## Project Overview
 
@@ -65,9 +48,9 @@ Here are a few examples of what you can find in this repository:
 2. [Creating Flutter Widgets](./lib/widget_examples.dart)
 3. Feel free to dive into the examples and explore the Flutter code!
 
-## Resources
+## 📚 Learning Resources
 
-A few resources to get you started if this is your first Flutter project:
+Level up your skills with some top-tier learning resources:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
@@ -85,6 +68,12 @@ Here are some resources that I found helpful while learning Flutter:
 ## Contributing
 
 Contributions, suggestions, and improvements are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
+
+## 🎉 Get in Touch
+
+Catch me in the metaverse! Let's connect and geek out over Flutter and Dart:
+
+- 💼 LinkedIn: [vibha-thakur](https://www.linkedin.com/in/your-username)
 
 Happy Fluttering! 🚀
 P.S. May the code be with you. 🌟
